@@ -30,3 +30,30 @@ Kami melakukan eksplorasi data, membangun model MLP, melakukan pelatihan model, 
 ---
 
 ## 🗂 Struktur Proyek
+
+## 🗂 Struktur Proyek
+
+Berikut adalah struktur direktori dari proyek klasifikasi bunga Iris dengan MLP:
+
+.
+├── data/
+│ └── iris.csv # Dataset Iris (jika disimpan manual, opsional)
+│
+├── model.py # Arsitektur jaringan MLP (PyTorch Module)
+├── train.py # Skrip pelatihan model MLP
+├── predict.py # Skrip prediksi untuk data baru menggunakan model.pth
+├── model.pth # Model hasil pelatihan yang disimpan
+│
+├── iris_logreg.py # Implementasi model Logistic Regression untuk perbandingan
+│
+├── utils.py # Fungsi-fungsi bantu (plot, preprocessing, dll) (opsional)
+├── requirements.txt # Daftar dependensi Python yang digunakan
+│
+├── laporan_akhir.ipynb # Laporan akhir dalam bentuk notebook Jupyter
+├── laporan_akhir.pdf # Laporan akhir dalam format PDF
+├── README.md # Dokumentasi proyek ini (yang sedang Anda baca)
+│
+└── assets/
+├── training_loss.png # Visualisasi loss selama training
+├── training_accuracy.png # Visualisasi akurasi selama training
+└── confusion_matrix.png # Confusion matrix hasil evaluasi model
