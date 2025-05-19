@@ -31,8 +31,6 @@ Kami melakukan eksplorasi data, membangun model MLP, melakukan pelatihan model, 
 
 ## 🗂 Struktur Proyek
 
-## 🗂 Struktur Proyek
-
 Berikut adalah struktur direktori dari proyek klasifikasi bunga Iris dengan MLP:
 
 .
