@@ -5,9 +5,9 @@ Repositori ini merupakan hasil dari tugas kelompok pada mata kuliah **Machine Le
 
 ## 👥 Anggota Kelompok
 - Adam Toyib Nur Wahid (442023611073)
-- Fayshal Karan Athilla (NIM)
-- Adrian Maulana (NIM)
-- Daffa Rafly Muhammad (NIM)
-- Ahmad Irhan Fauzi ()
+- Fayshal Karan Athilla (442023611088)
+- Adrian Maulana (442023611059)
+- Daffa Rafly Muhammad (442023611063)
+- Ahmad Irhan Fauzi (442023611061)
 - Muhammad Dwi Apriansyah ()
 
