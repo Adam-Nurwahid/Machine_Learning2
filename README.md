@@ -9,5 +9,5 @@ Repositori ini merupakan hasil dari tugas kelompok pada mata kuliah **Machine Le
 - Adrian Maulana (442023611059)
 - Daffa Rafly Muhammad (442023611063)
 - Ahmad Irhan Fauzi (442023611061)
-- Muhammad Dwi Apriansyah ()
+- Muhammad Dwi Apriansyah (442023611065)
 
